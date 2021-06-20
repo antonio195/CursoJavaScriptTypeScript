@@ -1,0 +1,1 @@
+// bom, esse arquivo é para mostrar apenas comentários e como eles funcionam, nada do que eu não aprendi na faculdade.
